@@ -1,5 +1,5 @@
 # Picto2D
-Release at https://sjz99.github.io/Picto2D/
+Release at https://jian-zhe.github.io/Picto2D/
 
 # Operation
 <-, -> for move
